@@ -10,7 +10,7 @@ redirect_from:
 
 Short summary/bio here
 
-View my ![CV](https://jacobwharris.github.io/files/CV-current.pdf) here. 
+View my [CV](https://jacobwharris.github.io/files/CV-current.pdf) here. 
 
 
 A data-driven personal website
