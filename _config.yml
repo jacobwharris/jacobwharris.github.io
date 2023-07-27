@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Harris"
-  avatar           : "headshot.jpg"
+  avatar           : "headshot.png"
   bio              : "Political scientist & public policy scholar"
   location         : "Ithaca, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lhGysb4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
