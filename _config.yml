@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://jacobwharris.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jacobwharris/jacobwharris.github.io"
-teaser                   : "headshot.jpeg"
+teaser                   : "images/headshot"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Harris"
-  avatar           : "headshot.png"
+  avatar           : "images/headshot"
   bio              : "Political scientist & public policy scholar"
   location         : "Ithaca, NY"
   employer         :
