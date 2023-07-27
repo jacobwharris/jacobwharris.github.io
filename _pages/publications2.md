@@ -6,4 +6,8 @@ author_profile: true
 
 ---
 
-Publications go here
+**Peer-Reviewed Research**
+The Prison Bust
+
+**Working Papers**
+Jacob Harris. 2023. The Prison Bust: Declining Carceral Capacity in an Era of Mass Incarceration. Under Review. 
