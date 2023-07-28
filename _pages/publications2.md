@@ -17,7 +17,7 @@ Citation: Enns, Peter K., Jacob Harris, John Kenny, Andra Roescu, and Will Jenni
 
 ### Religion, Punitive Sentiment, and the Mediating Effect of Racial Resentment 
 [Gated](http://jacobwharris.github.io/files/Religion-race-punitive attitudes.pdf) 
-Ungated](https://onlinelibrary.wiley.com/doi/abs/10.1111/jssr.12769)
+[Ungated](https://onlinelibrary.wiley.com/doi/abs/10.1111/jssr.12769)
 
 Citation: Harris, Jacob W., Melissa S. Jones, and J. Quin Monson. 2022. "Religion, punitive sentiment, and the mediating effect of racial resentment." Journal for the Scientific Study of Religion 61(1):142-160.
 
